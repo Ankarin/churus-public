@@ -1,6 +1,6 @@
 This is a small project I've build as a technical cofounder, that is for finding a part time jobs. 
 
-[Demo](https://churus.net)
+[Demo](https://chures.net/)
 
 I used Next.js, Tailwin, Shadcn/ui and Supabase
 
