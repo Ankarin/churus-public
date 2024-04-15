@@ -1,0 +1,238 @@
+{
+  "editJob": {
+    "editYourJob": "Redigera ditt jobb",
+    "title": "Titel",
+    "hourlyRate": "Timlön",
+    "location": "Plats",
+    "jobDescription": "Jobbeskrivning",
+    "pickADate": "Välj ett datum",
+    "date": "Datum",
+    "startTime": "Starttid",
+    "endTime": "Sluttid",
+    "jobPublic": "Jobb offentligt",
+    "jobHidden": "Jobb dolt",
+    "update": "Uppdatera",
+    "errorOnDeletingTheJob": "Fel vid radering av jobbet",
+    "jobDeleted": "Jobbet raderat",
+    "yourJobWasUpdatedSuccessfully": "Ditt jobb uppdaterades framgångsrikt",
+    "error": "Fel"
+  },
+  "confirm": {
+    "pleaseConfirmYourEmail": "Vänligen bekräfta din e-post för att fortsätta."
+  },
+  "signup": {
+    "signUp": "Registrera dig",
+    "alreadyHaveAnAccount": "Har du redan ett konto?",
+    "signIn": "Logga in",
+    "imLookingForAJob": "Jag letar efter ett jobb",
+    "iWantToHire": "Jag vill anställa",
+    "email": "E-post",
+    "password": "Lösenord",
+    "confirmPassword": "Bekräfta lösenord",
+    "destructiveToastTitle": "Fel",
+    "invalidEmail": "Ogiltig e-postadress",
+    "passwordMismatch": "Lösenorden matchar inte"
+  },
+  "confirmChange": {
+    "confirmEmailChange": "För att bekräfta e-poständring, vänligen kolla din nya e-post för en bekräftelselänk."
+  },
+  "login": {
+    "logIn": "Logga in",
+    "dontHaveAnAccount": "Har du inget konto?",
+    "signUp": "Registrera dig",
+    "email": "E-post",
+    "password": "Lösenord",
+    "forgotPassword": "Glömt lösenord?",
+    "destructiveToastTitle": "Fel",
+    "invalidEmail": "Ogiltig e-postadress"
+  },
+  "forgotPassword": {
+    "forgotPassword": "Glömt lösenord",
+    "enterYourEmail": "Ange din e-post och vi skickar dig en länk för att återställa ditt lösenord.",
+    "email": "E-post",
+    "sendResetLink": "Skicka återställningslänk",
+    "destructiveToastTitle": "Fel",
+    "invalidEmail": "Ogiltig e-postadress"
+  },
+  "resetPassword": {
+    "resetPassword": "Återställ lösenord",
+    "enterNewPassword": "Ange ditt nya lösenord nedan.",
+    "newPassword": "Nytt lösenord",
+    "confirmNewPassword": "Bekräfta nytt lösenord",
+    "reset": "Återställ",
+    "destructiveToastTitle": "Fel",
+    "invalidPassword": "Ogiltigt lösenord",
+    "passwordMismatch": "Lösenorden matchar inte"
+  },
+  "settings": {
+    "settings": "Inställningar",
+    "newEmail": "Ny e-post",
+    "changeEmail": "Ändra e-post",
+    "resetPassword": "Återställ lösenord",
+    "destructiveToastTitle": "Fel",
+    "invalidEmail": "Ogiltig e-postadress"
+  },
+  "error": {
+    "sorrySomethingWentWrong": "Tyvärr, något gick fel"
+  },
+  "fullJobCard": {
+    "sorrySomethingWentWrong": "Tyvärr, något gick fel",
+    "youveAppliedForTheJob": "Du har ansökt om jobbet",
+    "expired": "Utgått",
+    "hidden": "Dolt",
+    "candidates": "kandidater",
+    "capCandidates": "Kandidater",
+    "apply": "Ansök",
+    "edit": "Redigera",
+    "applied": "Ansök",
+    "youveApplied": "Du har ansökt"
+  },
+  "jobCard": {
+    "hidden": "Dolt",
+    "candidates": "kandidater",
+    "readMore": "Läs mer",
+    "youveApplied": "Du har ansökt"
+  },
+  "candidatesPage": {
+    "candidates": "Kandidater",
+    "noCandidates": "Inga kandidater ännu",
+    "apply": "Ansök",
+    "reject": "Avvisa",
+    "interview": "Intervju",
+    "offer": "Erbjudande",
+    "hired": "Anställd",
+    "sorrySomethingWentWrong": "Tyvärr, något gick fel"
+  },
+  "myJobsPage": {
+    "myJobs": "Mina jobb",
+    "loading": "Laddar...",
+    "sorrySomethingWentWrong": "Tyvärr, något gick fel"
+  },
+  "openJobsPage": {
+    "openJobs": "Lediga Jobb",
+    "loading": "Laddar...",
+    "sorrySomethingWentWrong": "Tyvärr, något gick fel"
+  },
+  "postJob": {
+    "postJob": "Publicera jobb",
+    "jobTitle": "Jobbtitel",
+    "invalidJobTitle": "Ogiltig jobbtitel",
+    "jobDescription": "Jobbeskrivning",
+    "invalidJobDescription": "Ogiltig jobbeskrivning",
+    "post": "Publicera",
+    "sorrySomethingWentWrong": "Tyvärr, något gick fel",
+    "createANewJob": "Skapa ett nytt jobb",
+    "title": "Titel",
+    "hourlyRate": "Timlön",
+    "location": "Plats",
+    "date": "Datum",
+    "pickADate": "Välj ett datum",
+    "startTime": "Starttid",
+    "endTime": "Sluttid",
+    "dateCannotBeInThePast": "Datum kan inte vara i det förflutna",
+    "startTimeIsRequired": "Starttid krävs",
+    "endTimeIsRequired": "Sluttid krävs",
+    "jobPostedSuccessfully": "Jobbet publicerades framgångsrikt",
+    "error": "Fel"
+  },
+  "profilePage": {
+    "your": "Din",
+    "profile": "Profil",
+    "name": "Namn",
+    "invalidName": "Ogiltigt namn",
+    "email": "E-post",
+    "invalidEmail": "Ogiltig e-postadress",
+    "changePassword": "Ändra lösenord",
+    "saveChanges": "Spara ändringar",
+    "sorrySomethingWentWrong": "Tyvärr, något gick fel",
+    "account": "konto",
+    "helloThere": "Hej där! Vänligen slutför ditt konto för att fortsätta använda vår plattform."
+  },
+  "candidateCard": {
+    "fullName": "Fullständigt namn",
+    "fullCv": "Fullständigt CV",
+    "email": "E-post",
+    "phoneNumber": "Telefonnummer",
+    "description": "Beskrivning"
+  },
+  "confirmDialog": {
+    "pleaseConfirm": "Vänligen bekräfta",
+    "areYouSure": "Är du säker på att du vill radera detta jobb? Denna åtgärd kan inte ångras senare.",
+    "cancel": "Avbryt",
+    "delete": "Radera"
+  },
+  "candidateForm": {
+    "fullName": "Fullständigt namn",
+    "phoneNumber": "Telefon",
+    "contactEmail": "Kontakt E-post",
+    "info": "Skriv ett par meningar om dig själv",
+    "fullCV": "Ditt fullständiga CV",
+    "change": "Ändra",
+    "save": "Spara",
+    "invalidPhoneNumber": "Ogiltigt telefonnummer",
+    "invalidEmail": "Ogiltig e-postadress",
+    "sorrySomethingWentWrong": "Tyvärr, något gick fel",
+    "yourProfileHasBeenUpdated": "Din profil har uppdaterats",
+    "fileError": "Du måste välja en fil att ladda upp"
+  },
+  "employerForm": {
+    "companyName": "Företagsnamn",
+    "companyWebsite": "Företagswebbplats",
+    "contactPhoneNumber": "Kontakt Telefonnummer",
+    "contactEmail": "Kontakt E-post",
+    "save": "Spara",
+    "invalidPhoneNumber": "Ogiltigt telefonnummer",
+    "invalidEmail": "Ogiltig e-postadress",
+    "sorrySomethingWentWrong": "Tyvärr, något gick fel",
+    "yourProfileHasBeenUpdated": "Din profil har uppdaterats"
+  },
+  "auth": {
+    "logIn": "Logga in",
+    "signUp": "Registrera dig"
+  },
+  "navbar": {
+    "home": "Hem",
+    "about": "Om",
+    "contact": "Kontakt",
+    "profile": "Profil",
+    "logOut": "Logga ut"
+  },
+  "header": {
+    "jobs": "Jobb",
+    "postJob": "Publicera ett jobb",
+    "myJobs": "Mina jobb",
+    "title": "Din titel"
+  },
+  "mobileNav": {
+    "welcome": "Välkommen",
+    "home": "Hem",
+    "jobs": "Jobb",
+    "postJob": "Publicera ett jobb",
+    "myJobs": "Mina jobb",
+    "myProfile": "Min profil",
+    "settings": "Inställningar",
+    "logOut": "Logga ut",
+    "getStarted": "Kom igång"
+  },
+  "themeToggle": {
+    "toggleTheme": "Växla tema",
+    "light": "Ljus",
+    "dark": "Mörk",
+    "system": "System"
+  },
+  "userDropdown": {
+    "profile": "Profil",
+    "settings": "Inställningar",
+    "logOut": "Logga ut"
+  },
+  "jobCandidatesPage": {
+    "jobNotFound": "Jobbet hittades inte",
+    "yourCandidates": "Dina kandidater",
+    "loading": "Laddar dina kandidater...",
+    "sorrySomethingWentWrong": "Tyvärr, något gick fel"
+  },
+  "landingActions": {
+    "openJobs": "Lediga Jobb",
+    "getStarted": "Kom igång"
+  }
+}

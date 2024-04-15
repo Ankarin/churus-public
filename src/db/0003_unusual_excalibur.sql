@@ -1,0 +1,1 @@
+ALTER TABLE "employer" ADD COLUMN "verified" boolean;

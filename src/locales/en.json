@@ -1,0 +1,234 @@
+{
+  "editJob": {
+    "editYourJob": "Edit your job",
+    "title": "Title",
+    "hourlyRate": "Hourly Rate",
+    "location": "Location",
+    "jobDescription": "Job Description",
+    "pickADate": "Pick a date",
+    "date": "Date",
+    "startTime": "Start Time",
+    "endTime": "End Time",
+    "jobPublic": "Job public",
+    "jobHidden": "Job hidden",
+    "update": "Update",
+    "errorOnDeletingTheJob": "Error on deleting the job",
+    "jobDeleted": "Job deleted",
+    "yourJobWasUpdatedSuccessfully": "Your job was updated successfully",
+    "error": "Error"
+  },
+  "confirm": {
+    "pleaseConfirmYourEmail": "Please confirm your email to continue."
+  },
+  "signup": {
+    "signUp": "Sign Up",
+    "alreadyHaveAnAccount": "Already have an account ?",
+    "signIn": "Sign In",
+    "imLookingForAJob": "I'm looking for a job",
+    "iWantToHire": "I want to hire",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "destructiveToastTitle": "Error",
+    "invalidEmail": "Invalid email address",
+    "passwordMismatch": "Passwords do not match"
+  },
+  "confirmChange": {
+    "confirmEmailChange": "In order to confirm email change, please check your new email for a confirmation link."
+  },
+  "login": {
+    "logIn": "Log In",
+    "dontHaveAnAccount": "Don't have an account?",
+    "signUp": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot Password?",
+    "destructiveToastTitle": "Error",
+    "invalidEmail": "Invalid email address"
+  },
+  "forgotPassword": {
+    "forgotPassword": "Forgot Password",
+    "enterYourEmail": "Enter your email and we'll send you a link to reset your password.",
+    "email": "Email",
+    "sendResetLink": "Send Reset Link",
+    "destructiveToastTitle": "Error",
+    "invalidEmail": "Invalid email address"
+  },
+  "resetPassword": {
+    "resetPassword": "Reset Password",
+    "enterNewPassword": "Enter your new password below.",
+    "newPassword": "New Password",
+    "confirmNewPassword": "Confirm New Password",
+    "reset": "Reset",
+    "destructiveToastTitle": "Error",
+    "invalidPassword": "Invalid password",
+    "passwordMismatch": "Passwords do not match"
+  },
+  "settings": {
+    "settings": "Settings",
+    "newEmail": "New Email",
+    "changeEmail": "Change Email",
+    "resetPassword": "Reset Password",
+    "destructiveToastTitle": "Error",
+    "invalidEmail": "Invalid email address"
+  },
+  "error": {
+    "sorrySomethingWentWrong": "Sorry, something went wrong"
+  },
+  "fullJobCard": {
+    "sorrySomethingWentWrong": "Sorry, something went wrong",
+    "youveAppliedForTheJob": "You've applied for the job",
+    "expired": "Expired",
+    "hidden": "Hidden",
+    "candidates": "candidates",
+    "capCandidates": "Candidates",
+    "apply": "Apply",
+    "edit": "Edit",
+    "applied": "Applied",
+    "youveApplied": "You've Applied"
+  },
+  "jobCard": {
+    "hidden": "Hidden",
+    "candidates": "candidates",
+    "readMore": "Read more",
+    "youveApplied": "You've Applied"
+  },
+  "candidatesPage": {
+    "candidates": "Candidates",
+    "noCandidates": "No candidates yet",
+    "apply": "Apply",
+    "reject": "Reject",
+    "interview": "Interview",
+    "offer": "Offer",
+    "hired": "Hired",
+    "sorrySomethingWentWrong": "Sorry, something went wrong"
+  },
+  "myJobsPage": {
+    "myJobs": "My Jobs",
+    "loading": "Loading...",
+    "sorrySomethingWentWrong": "Sorry, something went wrong"
+  },
+  "openJobsPage": {
+    "openJobs": "Open Jobs",
+    "loading": "Loading...",
+    "sorrySomethingWentWrong": "Sorry, something went wrong"
+  },
+  "postJob": {
+    "postJob": "Post Job",
+    "jobTitle": "Job Title",
+    "invalidJobTitle": "Invalid job title",
+    "jobDescription": "Job Description",
+    "invalidJobDescription": "Invalid job description",
+    "post": "Post",
+    "sorrySomethingWentWrong": "Sorry, something went wrong",
+    "createANewJob": "Create a new job",
+    "title": "Title",
+    "hourlyRate": "Hourly Rate",
+    "location": "Location",
+    "date": "Date",
+    "pickADate": "Pick a date",
+    "startTime": "Start Time",
+    "endTime": "End Time",
+    "dateCannotBeInThePast": "Date cannot be in the past",
+    "startTimeIsRequired": "Start time is required",
+    "endTimeIsRequired": "End time is required",
+    "jobPostedSuccessfully": "Job posted successfully",
+    "error": "Error"
+  },
+  "profilePage": {
+    "your": "Your",
+    "profile": "Profile",
+    "name": "Name",
+    "invalidName": "Invalid name",
+    "email": "Email",
+    "invalidEmail": "Invalid email address",
+    "changePassword": "Change Password",
+    "saveChanges": "Save Changes",
+    "sorrySomethingWentWrong": "Sorry, something went wrong",
+    "account": "account",
+    "helloThere": "Hello there! Please complete your account to continue using our platform."
+  },
+  "candidateCard": {
+    "fullName": "Full Name",
+    "fullCv": "Full CV",
+    "email": "Email",
+    "phoneNumber": "Phone Number",
+    "description": "Description"
+  },
+  "confirmDialog": {
+    "pleaseConfirm": "Please confirm",
+    "areYouSure": "Are you sure you want to delete this job? This action can not be reverted later.",
+    "cancel": "Cancel",
+    "delete": "Delete"
+  },
+  "candidateForm": {
+    "fullName": "Full Name",
+    "phoneNumber": "Phone",
+    "contactEmail": "Contact Email",
+    "info": "Write a couple of sentences about yourself",
+    "fullCV": "Your full CV",
+    "change": "Change",
+    "save": "Save",
+    "invalidPhoneNumber": "Invalid phone number",
+    "invalidEmail": "Invalid email address",
+    "sorrySomethingWentWrong": "Sorry, something went wrong",
+    "yourProfileHasBeenUpdated": "Your profile has been updated",
+    "fileError": "You must select a file to upload"
+  },
+  "employerForm": {
+    "companyName": "Company name",
+    "companyWebsite": "Company website",
+    "contactPhoneNumber": "Contact Phone Number",
+    "contactEmail": "Contact Email",
+    "save": "Save",
+    "invalidPhoneNumber": "Invalid phone number",
+    "invalidEmail": "Invalid email address",
+    "sorrySomethingWentWrong": "Sorry, something went wrong",
+    "yourProfileHasBeenUpdated": "Your profile has been updated"
+  },
+  "auth": {
+    "logIn": "Log In",
+    "signUp": "Sign Up"
+  },
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "profile": "Profile",
+    "logOut": "Log Out"
+  },
+  "header": {
+  "jobs": "Jobs",
+  "postJob": "Post a Job",
+  "myJobs": "My Jobs",
+  "title": "Your Title"
+},
+  "mobileNav": {
+    "welcome": "Welcome",
+    "home": "Home",
+    "jobs": "Jobs",
+    "postJob": "Post a Job",
+    "myJobs": "My Jobs",
+    "myProfile": "My Profile",
+    "settings": "Settings",
+    "logOut": "Log Out",
+    "getStarted": "Get Started"
+  },
+  "themeToggle": {
+    "toggleTheme": "Toggle theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "userDropdown": {
+    "profile": "Profile",
+    "settings": "Settings",
+    "logOut": "Log Out"
+  },
+  "jobCandidatesPage": {
+    "jobNotFound": "Job not found",
+    "yourCandidates": "Your Candidates",
+    "loading": "Loading your candidates...",
+    "sorrySomethingWentWrong": "Sorry, something went wrong"
+  }
+}

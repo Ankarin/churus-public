@@ -1,0 +1,1 @@
+ALTER TABLE "employer" ALTER COLUMN "verified" SET NOT NULL;
